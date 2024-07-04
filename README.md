@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibrahim-developes
-- 👀 I’m interested in react native
+- 👀 I’m interested in Java Script (react native, react, node)
 - 🌱 - 💞️ I’m looking to collaborate on both fornt and backend
- development involving react native
+ development involving Javascript
 - 📫 
 
 <!---
